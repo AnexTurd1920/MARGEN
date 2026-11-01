@@ -1,0 +1,1810 @@
+[
+ {
+  "path": "audiovisual/categoria-audiovisual.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "video production camera crew",
+  "descripcion": "Portada de categoría: Producción audiovisual"
+ },
+ {
+  "path": "audiovisual/contenido-video-redes-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content creator filming smartphone",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/contenido-video-redes-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content creator filming smartphone",
+  "descripcion": "Ejemplo visual de Producción de contenido para redes sociales"
+ },
+ {
+  "path": "audiovisual/contenido-video-redes-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content creator filming smartphone",
+  "descripcion": "Ejemplo visual de Producción de contenido para redes sociales"
+ },
+ {
+  "path": "audiovisual/contenido-video-redes-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content creator filming smartphone",
+  "descripcion": "Ejemplo visual de Producción de contenido para redes sociales"
+ },
+ {
+  "path": "audiovisual/edicion-video-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "video editing timeline monitor",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/edicion-video-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "video editing timeline monitor",
+  "descripcion": "Ejemplo visual de Edición de video"
+ },
+ {
+  "path": "audiovisual/edicion-video-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "video editing timeline monitor",
+  "descripcion": "Ejemplo visual de Edición de video"
+ },
+ {
+  "path": "audiovisual/edicion-video-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "video editing timeline monitor",
+  "descripcion": "Ejemplo visual de Edición de video"
+ },
+ {
+  "path": "audiovisual/motion-graphics-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "motion graphics animation design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/motion-graphics-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "motion graphics animation design",
+  "descripcion": "Ejemplo visual de Motion graphics y animaciones gráficas"
+ },
+ {
+  "path": "audiovisual/motion-graphics-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "motion graphics animation design",
+  "descripcion": "Ejemplo visual de Motion graphics y animaciones gráficas"
+ },
+ {
+  "path": "audiovisual/motion-graphics-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "motion graphics animation design",
+  "descripcion": "Ejemplo visual de Motion graphics y animaciones gráficas"
+ },
+ {
+  "path": "audiovisual/postproduccion-audiovisual-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "color grading film post production",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/postproduccion-audiovisual-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "color grading film post production",
+  "descripcion": "Ejemplo visual de Postproducción audiovisual"
+ },
+ {
+  "path": "audiovisual/postproduccion-audiovisual-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "color grading film post production",
+  "descripcion": "Ejemplo visual de Postproducción audiovisual"
+ },
+ {
+  "path": "audiovisual/postproduccion-audiovisual-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "color grading film post production",
+  "descripcion": "Ejemplo visual de Postproducción audiovisual"
+ },
+ {
+  "path": "audiovisual/reels-tiktok-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "vertical video creator phone",
+  "descripcion": "Fotografía representativa de: Reels y TikToks"
+ },
+ {
+  "path": "audiovisual/reels-tiktok-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "vertical video creator phone",
+  "descripcion": "Ejemplo visual de Reels y TikToks"
+ },
+ {
+  "path": "audiovisual/reels-tiktok-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "vertical video creator phone",
+  "descripcion": "Ejemplo visual de Reels y TikToks"
+ },
+ {
+  "path": "audiovisual/reels-tiktok-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "vertical video creator phone",
+  "descripcion": "Ejemplo visual de Reels y TikToks"
+ },
+ {
+  "path": "audiovisual/videos-corporativos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate video interview",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/videos-corporativos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate video interview",
+  "descripcion": "Ejemplo visual de Videos corporativos"
+ },
+ {
+  "path": "audiovisual/videos-corporativos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate video interview",
+  "descripcion": "Ejemplo visual de Videos corporativos"
+ },
+ {
+  "path": "audiovisual/videos-corporativos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate video interview",
+  "descripcion": "Ejemplo visual de Videos corporativos"
+ },
+ {
+  "path": "audiovisual/videos-eventos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event videography wedding",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/videos-eventos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event videography wedding",
+  "descripcion": "Ejemplo visual de Videos de eventos"
+ },
+ {
+  "path": "audiovisual/videos-eventos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event videography wedding",
+  "descripcion": "Ejemplo visual de Videos de eventos"
+ },
+ {
+  "path": "audiovisual/videos-eventos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event videography wedding",
+  "descripcion": "Ejemplo visual de Videos de eventos"
+ },
+ {
+  "path": "audiovisual/videos-institucionales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "institutional documentary video filming",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/videos-institucionales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "institutional documentary video filming",
+  "descripcion": "Ejemplo visual de Videos institucionales"
+ },
+ {
+  "path": "audiovisual/videos-institucionales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "institutional documentary video filming",
+  "descripcion": "Ejemplo visual de Videos institucionales"
+ },
+ {
+  "path": "audiovisual/videos-institucionales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "institutional documentary video filming",
+  "descripcion": "Ejemplo visual de Videos institucionales"
+ },
+ {
+  "path": "audiovisual/videos-promocionales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional video shooting",
+  "descripcion": "Fotografía representativa de: Grabación de videos promocionales"
+ },
+ {
+  "path": "audiovisual/videos-promocionales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional video shooting",
+  "descripcion": "Ejemplo visual de Grabación de videos promocionales"
+ },
+ {
+  "path": "audiovisual/videos-promocionales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional video shooting",
+  "descripcion": "Ejemplo visual de Grabación de videos promocionales"
+ },
+ {
+  "path": "audiovisual/videos-promocionales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional video shooting",
+  "descripcion": "Ejemplo visual de Grabación de videos promocionales"
+ },
+ {
+  "path": "audiovisual/videos-publicitarios-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial video production set",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "audiovisual/videos-publicitarios-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial video production set",
+  "descripcion": "Ejemplo visual de Videos publicitarios"
+ },
+ {
+  "path": "audiovisual/videos-publicitarios-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial video production set",
+  "descripcion": "Ejemplo visual de Videos publicitarios"
+ },
+ {
+  "path": "audiovisual/videos-publicitarios-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial video production set",
+  "descripcion": "Ejemplo visual de Videos publicitarios"
+ },
+ {
+  "path": "branding/diseno-logotipos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "logo design sketch notebook",
+  "descripcion": "Fotografía representativa de: Diseño de logotipos"
+ },
+ {
+  "path": "branding/diseno-logotipos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "logo design sketch notebook",
+  "descripcion": "Ejemplo visual de Diseño de logotipos"
+ },
+ {
+  "path": "branding/diseno-logotipos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "logo design sketch notebook",
+  "descripcion": "Ejemplo visual de Diseño de logotipos"
+ },
+ {
+  "path": "branding/diseno-logotipos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "logo design sketch notebook",
+  "descripcion": "Ejemplo visual de Diseño de logotipos"
+ },
+ {
+  "path": "branding/identidad-visual-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand identity stationery mockup",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "branding/identidad-visual-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand identity stationery mockup",
+  "descripcion": "Ejemplo visual de Identidad visual corporativa"
+ },
+ {
+  "path": "branding/identidad-visual-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand identity stationery mockup",
+  "descripcion": "Ejemplo visual de Identidad visual corporativa"
+ },
+ {
+  "path": "branding/identidad-visual-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand identity stationery mockup",
+  "descripcion": "Ejemplo visual de Identidad visual corporativa"
+ },
+ {
+  "path": "branding/manual-identidad-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand guidelines book layout",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "branding/manual-identidad-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand guidelines book layout",
+  "descripcion": "Ejemplo visual de Manual de identidad de marca"
+ },
+ {
+  "path": "branding/manual-identidad-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand guidelines book layout",
+  "descripcion": "Ejemplo visual de Manual de identidad de marca"
+ },
+ {
+  "path": "branding/manual-identidad-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brand guidelines book layout",
+  "descripcion": "Ejemplo visual de Manual de identidad de marca"
+ },
+ {
+  "path": "diseno-grafico/brochures-catalogos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brochure catalog magazine layout",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/brochures-catalogos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brochure catalog magazine layout",
+  "descripcion": "Ejemplo visual de Diseño de brochures y catálogos"
+ },
+ {
+  "path": "diseno-grafico/brochures-catalogos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brochure catalog magazine layout",
+  "descripcion": "Ejemplo visual de Diseño de brochures y catálogos"
+ },
+ {
+  "path": "diseno-grafico/brochures-catalogos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "brochure catalog magazine layout",
+  "descripcion": "Ejemplo visual de Diseño de brochures y catálogos"
+ },
+ {
+  "path": "diseno-grafico/categoria-branding-grafico.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "graphic design studio desk",
+  "descripcion": "Portada de categoría: Diseño gráfico y branding"
+ },
+ {
+  "path": "diseno-grafico/categoria-creativos-adicionales.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "creative stationery flat lay",
+  "descripcion": "Portada de categoría: Servicios creativos adicionales"
+ },
+ {
+  "path": "diseno-grafico/diseno-certificados-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "certificate award design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/diseno-certificados-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "certificate award design",
+  "descripcion": "Ejemplo visual de Diseño de certificados"
+ },
+ {
+  "path": "diseno-grafico/diseno-certificados-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "certificate award design",
+  "descripcion": "Ejemplo visual de Diseño de certificados"
+ },
+ {
+  "path": "diseno-grafico/diseno-certificados-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "certificate award design",
+  "descripcion": "Ejemplo visual de Diseño de certificados"
+ },
+ {
+  "path": "diseno-grafico/diseno-curriculums-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "resume cv design desk",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/diseno-curriculums-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "resume cv design desk",
+  "descripcion": "Ejemplo visual de Diseño de currículums"
+ },
+ {
+  "path": "diseno-grafico/diseno-curriculums-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "resume cv design desk",
+  "descripcion": "Ejemplo visual de Diseño de currículums"
+ },
+ {
+  "path": "diseno-grafico/diseno-curriculums-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "resume cv design desk",
+  "descripcion": "Ejemplo visual de Diseño de currículums"
+ },
+ {
+  "path": "diseno-grafico/diseno-menus-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "restaurant menu design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/diseno-menus-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "restaurant menu design",
+  "descripcion": "Ejemplo visual de Diseño de menús"
+ },
+ {
+  "path": "diseno-grafico/diseno-menus-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "restaurant menu design",
+  "descripcion": "Ejemplo visual de Diseño de menús"
+ },
+ {
+  "path": "diseno-grafico/diseno-menus-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "restaurant menu design",
+  "descripcion": "Ejemplo visual de Diseño de menús"
+ },
+ {
+  "path": "diseno-grafico/diseno-presentaciones-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "presentation slides meeting",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/diseno-presentaciones-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "presentation slides meeting",
+  "descripcion": "Ejemplo visual de Diseño de presentaciones"
+ },
+ {
+  "path": "diseno-grafico/diseno-presentaciones-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "presentation slides meeting",
+  "descripcion": "Ejemplo visual de Diseño de presentaciones"
+ },
+ {
+  "path": "diseno-grafico/diseno-presentaciones-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "presentation slides meeting",
+  "descripcion": "Ejemplo visual de Diseño de presentaciones"
+ },
+ {
+  "path": "diseno-grafico/diseno-publicitario-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising billboard design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/diseno-publicitario-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising billboard design",
+  "descripcion": "Ejemplo visual de Diseño publicitario"
+ },
+ {
+  "path": "diseno-grafico/diseno-publicitario-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising billboard design",
+  "descripcion": "Ejemplo visual de Diseño publicitario"
+ },
+ {
+  "path": "diseno-grafico/diseno-publicitario-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising billboard design",
+  "descripcion": "Ejemplo visual de Diseño publicitario"
+ },
+ {
+  "path": "diseno-grafico/flyers-afiches-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "poster design wall print",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/flyers-afiches-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "poster design wall print",
+  "descripcion": "Ejemplo visual de Diseño de flyers y afiches"
+ },
+ {
+  "path": "diseno-grafico/flyers-afiches-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "poster design wall print",
+  "descripcion": "Ejemplo visual de Diseño de flyers y afiches"
+ },
+ {
+  "path": "diseno-grafico/flyers-afiches-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "poster design wall print",
+  "descripcion": "Ejemplo visual de Diseño de flyers y afiches"
+ },
+ {
+  "path": "diseno-grafico/fotomontajes-composiciones-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo manipulation composite art",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/fotomontajes-composiciones-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo manipulation composite art",
+  "descripcion": "Ejemplo visual de Fotomontajes y composiciones digitales"
+ },
+ {
+  "path": "diseno-grafico/fotomontajes-composiciones-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo manipulation composite art",
+  "descripcion": "Ejemplo visual de Fotomontajes y composiciones digitales"
+ },
+ {
+  "path": "diseno-grafico/fotomontajes-composiciones-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo manipulation composite art",
+  "descripcion": "Ejemplo visual de Fotomontajes y composiciones digitales"
+ },
+ {
+  "path": "diseno-grafico/invitaciones-digitales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "invitation card flat lay",
+  "descripcion": "Fotografía representativa de: Invitaciones digitales"
+ },
+ {
+  "path": "diseno-grafico/invitaciones-digitales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "invitation card flat lay",
+  "descripcion": "Ejemplo visual de Invitaciones digitales"
+ },
+ {
+  "path": "diseno-grafico/invitaciones-digitales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "invitation card flat lay",
+  "descripcion": "Ejemplo visual de Invitaciones digitales"
+ },
+ {
+  "path": "diseno-grafico/invitaciones-digitales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "invitation card flat lay",
+  "descripcion": "Ejemplo visual de Invitaciones digitales"
+ },
+ {
+  "path": "diseno-grafico/material-promocional-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional merchandise design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/material-promocional-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional merchandise design",
+  "descripcion": "Ejemplo visual de Diseño de material promocional"
+ },
+ {
+  "path": "diseno-grafico/material-promocional-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional merchandise design",
+  "descripcion": "Ejemplo visual de Diseño de material promocional"
+ },
+ {
+  "path": "diseno-grafico/material-promocional-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "promotional merchandise design",
+  "descripcion": "Ejemplo visual de Diseño de material promocional"
+ },
+ {
+  "path": "diseno-grafico/menus-digitales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital menu qr code restaurant",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/menus-digitales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital menu qr code restaurant",
+  "descripcion": "Ejemplo visual de Diseño de menús digitales"
+ },
+ {
+  "path": "diseno-grafico/menus-digitales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital menu qr code restaurant",
+  "descripcion": "Ejemplo visual de Diseño de menús digitales"
+ },
+ {
+  "path": "diseno-grafico/menus-digitales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital menu qr code restaurant",
+  "descripcion": "Ejemplo visual de Diseño de menús digitales"
+ },
+ {
+  "path": "diseno-grafico/packaging-etiquetas-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product packaging design",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/packaging-etiquetas-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product packaging design",
+  "descripcion": "Ejemplo visual de Diseño de packaging y etiquetas"
+ },
+ {
+  "path": "diseno-grafico/packaging-etiquetas-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product packaging design",
+  "descripcion": "Ejemplo visual de Diseño de packaging y etiquetas"
+ },
+ {
+  "path": "diseno-grafico/packaging-etiquetas-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product packaging design",
+  "descripcion": "Ejemplo visual de Diseño de packaging y etiquetas"
+ },
+ {
+  "path": "diseno-grafico/papeleria-corporativa-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business cards stationery desk",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-grafico/papeleria-corporativa-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business cards stationery desk",
+  "descripcion": "Ejemplo visual de Diseño de papelería corporativa"
+ },
+ {
+  "path": "diseno-grafico/papeleria-corporativa-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business cards stationery desk",
+  "descripcion": "Ejemplo visual de Diseño de papelería corporativa"
+ },
+ {
+  "path": "diseno-grafico/papeleria-corporativa-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business cards stationery desk",
+  "descripcion": "Ejemplo visual de Diseño de papelería corporativa"
+ },
+ {
+  "path": "diseno-web/categoria-diseno-web.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "web design laptop workspace",
+  "descripcion": "Portada de categoría: Diseño web"
+ },
+ {
+  "path": "diseno-web/diseno-paginas-web-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website design mockup laptop",
+  "descripcion": "Fotografía representativa de: Diseño de páginas web"
+ },
+ {
+  "path": "diseno-web/diseno-paginas-web-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website design mockup laptop",
+  "descripcion": "Ejemplo visual de Diseño de páginas web"
+ },
+ {
+  "path": "diseno-web/diseno-paginas-web-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website design mockup laptop",
+  "descripcion": "Ejemplo visual de Diseño de páginas web"
+ },
+ {
+  "path": "diseno-web/diseno-paginas-web-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website design mockup laptop",
+  "descripcion": "Ejemplo visual de Diseño de páginas web"
+ },
+ {
+  "path": "diseno-web/diseno-ui-ux-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "ui ux design wireframe",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/diseno-ui-ux-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "ui ux design wireframe",
+  "descripcion": "Ejemplo visual de Diseño UI/UX"
+ },
+ {
+  "path": "diseno-web/diseno-ui-ux-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "ui ux design wireframe",
+  "descripcion": "Ejemplo visual de Diseño UI/UX"
+ },
+ {
+  "path": "diseno-web/diseno-ui-ux-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "ui ux design wireframe",
+  "descripcion": "Ejemplo visual de Diseño UI/UX"
+ },
+ {
+  "path": "diseno-web/landing-pages-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "landing page design laptop",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/landing-pages-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "landing page design laptop",
+  "descripcion": "Ejemplo visual de Landing pages"
+ },
+ {
+  "path": "diseno-web/landing-pages-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "landing page design laptop",
+  "descripcion": "Ejemplo visual de Landing pages"
+ },
+ {
+  "path": "diseno-web/landing-pages-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "landing page design laptop",
+  "descripcion": "Ejemplo visual de Landing pages"
+ },
+ {
+  "path": "diseno-web/mantenimiento-web-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "web developer code laptop",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/mantenimiento-web-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "web developer code laptop",
+  "descripcion": "Ejemplo visual de Mantenimiento web"
+ },
+ {
+  "path": "diseno-web/mantenimiento-web-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "web developer code laptop",
+  "descripcion": "Ejemplo visual de Mantenimiento web"
+ },
+ {
+  "path": "diseno-web/mantenimiento-web-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "web developer code laptop",
+  "descripcion": "Ejemplo visual de Mantenimiento web"
+ },
+ {
+  "path": "diseno-web/paginas-informativas-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business website laptop office",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/paginas-informativas-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business website laptop office",
+  "descripcion": "Ejemplo visual de Desarrollo de páginas web informativas"
+ },
+ {
+  "path": "diseno-web/paginas-informativas-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business website laptop office",
+  "descripcion": "Ejemplo visual de Desarrollo de páginas web informativas"
+ },
+ {
+  "path": "diseno-web/paginas-informativas-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "business website laptop office",
+  "descripcion": "Ejemplo visual de Desarrollo de páginas web informativas"
+ },
+ {
+  "path": "diseno-web/rediseno-web-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website redesign designer",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/rediseno-web-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website redesign designer",
+  "descripcion": "Ejemplo visual de Rediseño de sitios web"
+ },
+ {
+  "path": "diseno-web/rediseno-web-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website redesign designer",
+  "descripcion": "Ejemplo visual de Rediseño de sitios web"
+ },
+ {
+  "path": "diseno-web/rediseno-web-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "website redesign designer",
+  "descripcion": "Ejemplo visual de Rediseño de sitios web"
+ },
+ {
+  "path": "diseno-web/tiendas-online-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "online store ecommerce shopping",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "diseno-web/tiendas-online-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "online store ecommerce shopping",
+  "descripcion": "Ejemplo visual de Diseño de tiendas online"
+ },
+ {
+  "path": "diseno-web/tiendas-online-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "online store ecommerce shopping",
+  "descripcion": "Ejemplo visual de Diseño de tiendas online"
+ },
+ {
+  "path": "diseno-web/tiendas-online-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "online store ecommerce shopping",
+  "descripcion": "Ejemplo visual de Diseño de tiendas online"
+ },
+ {
+  "path": "fotografia/categoria-fotografia.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "professional photography studio",
+  "descripcion": "Portada de categoría: Fotografía"
+ },
+ {
+  "path": "fotografia/edicion-retoque-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo retouching editing screen",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/edicion-retoque-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo retouching editing screen",
+  "descripcion": "Ejemplo visual de Edición y retoque fotográfico"
+ },
+ {
+  "path": "fotografia/edicion-retoque-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo retouching editing screen",
+  "descripcion": "Ejemplo visual de Edición y retoque fotográfico"
+ },
+ {
+  "path": "fotografia/edicion-retoque-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "photo retouching editing screen",
+  "descripcion": "Ejemplo visual de Edición y retoque fotográfico"
+ },
+ {
+  "path": "fotografia/fotografia-comercial-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial photography shoot",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/fotografia-comercial-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial photography shoot",
+  "descripcion": "Ejemplo visual de Fotografía comercial"
+ },
+ {
+  "path": "fotografia/fotografia-comercial-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial photography shoot",
+  "descripcion": "Ejemplo visual de Fotografía comercial"
+ },
+ {
+  "path": "fotografia/fotografia-comercial-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "commercial photography shoot",
+  "descripcion": "Ejemplo visual de Fotografía comercial"
+ },
+ {
+  "path": "fotografia/fotografia-corporativa-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate team photography office",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/fotografia-corporativa-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate team photography office",
+  "descripcion": "Ejemplo visual de Fotografía corporativa"
+ },
+ {
+  "path": "fotografia/fotografia-corporativa-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate team photography office",
+  "descripcion": "Ejemplo visual de Fotografía corporativa"
+ },
+ {
+  "path": "fotografia/fotografia-corporativa-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "corporate team photography office",
+  "descripcion": "Ejemplo visual de Fotografía corporativa"
+ },
+ {
+  "path": "fotografia/fotografia-eventos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event photography party",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/fotografia-eventos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event photography party",
+  "descripcion": "Ejemplo visual de Fotografía de eventos"
+ },
+ {
+  "path": "fotografia/fotografia-eventos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event photography party",
+  "descripcion": "Ejemplo visual de Fotografía de eventos"
+ },
+ {
+  "path": "fotografia/fotografia-eventos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "event photography party",
+  "descripcion": "Ejemplo visual de Fotografía de eventos"
+ },
+ {
+  "path": "fotografia/fotografia-gastronomica-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "food photography restaurant dish",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/fotografia-gastronomica-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "food photography restaurant dish",
+  "descripcion": "Ejemplo visual de Fotografía gastronómica"
+ },
+ {
+  "path": "fotografia/fotografia-gastronomica-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "food photography restaurant dish",
+  "descripcion": "Ejemplo visual de Fotografía gastronómica"
+ },
+ {
+  "path": "fotografia/fotografia-gastronomica-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "food photography restaurant dish",
+  "descripcion": "Ejemplo visual de Fotografía gastronómica"
+ },
+ {
+  "path": "fotografia/fotografia-productos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product photography studio",
+  "descripcion": "Fotografía representativa de: Fotografía de productos"
+ },
+ {
+  "path": "fotografia/fotografia-productos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product photography studio",
+  "descripcion": "Ejemplo visual de Fotografía de productos"
+ },
+ {
+  "path": "fotografia/fotografia-productos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product photography studio",
+  "descripcion": "Ejemplo visual de Fotografía de productos"
+ },
+ {
+  "path": "fotografia/fotografia-productos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "product photography studio",
+  "descripcion": "Ejemplo visual de Fotografía de productos"
+ },
+ {
+  "path": "fotografia/fotografia-redes-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media content photography",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "fotografia/fotografia-redes-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media content photography",
+  "descripcion": "Ejemplo visual de Fotografía para redes sociales"
+ },
+ {
+  "path": "fotografia/fotografia-redes-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media content photography",
+  "descripcion": "Ejemplo visual de Fotografía para redes sociales"
+ },
+ {
+  "path": "fotografia/fotografia-redes-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media content photography",
+  "descripcion": "Ejemplo visual de Fotografía para redes sociales"
+ },
+ {
+  "path": "fotografia/fotografia-retratos-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "portrait photography natural light",
+  "descripcion": "Fotografía representativa de: Fotografía de retratos"
+ },
+ {
+  "path": "fotografia/fotografia-retratos-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "portrait photography natural light",
+  "descripcion": "Ejemplo visual de Fotografía de retratos"
+ },
+ {
+  "path": "fotografia/fotografia-retratos-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "portrait photography natural light",
+  "descripcion": "Ejemplo visual de Fotografía de retratos"
+ },
+ {
+  "path": "fotografia/fotografia-retratos-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "portrait photography natural light",
+  "descripcion": "Ejemplo visual de Fotografía de retratos"
+ },
+ {
+  "path": "inicio/agencia-01.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "creative team working studio",
+  "descripcion": "Espacio o equipo creativo trabajando"
+ },
+ {
+  "path": "inicio/agencia-02.jpg",
+  "width": 1000,
+  "height": 1000,
+  "orientation": "square",
+  "query": "design process sketch color",
+  "descripcion": "Detalle de proceso creativo (bocetos, color, impresión)"
+ },
+ {
+  "path": "inicio/hero-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "film production camera",
+  "descripcion": "Producción audiovisual o fotografía comercial en acción"
+ },
+ {
+  "path": "inicio/hero-03.jpg",
+  "width": 1000,
+  "height": 1000,
+  "orientation": "square",
+  "query": "creative portrait designer",
+  "descripcion": "Retrato creativo o detalle de diseño gráfico"
+ },
+ {
+  "path": "inicio/hero-principal.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative studio design desk",
+  "descripcion": "Fotografía creativa de estudio (mesa de trabajo, diseño, cámara)"
+ },
+ {
+  "path": "inicio/rueda-01.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "branding identity design",
+  "descripcion": "Identidad visual de una marca"
+ },
+ {
+  "path": "inicio/rueda-02.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "product photography",
+  "descripcion": "Fotografía comercial de producto"
+ },
+ {
+  "path": "inicio/rueda-03.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "professional portrait photography",
+  "descripcion": "Retrato profesional"
+ },
+ {
+  "path": "inicio/rueda-04.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "video production",
+  "descripcion": "Producción de video profesional"
+ },
+ {
+  "path": "inicio/rueda-05.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "social media content creator",
+  "descripcion": "Contenido para redes sociales"
+ },
+ {
+  "path": "inicio/rueda-06.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "web design interface",
+  "descripcion": "Diseño web en pantalla"
+ },
+ {
+  "path": "inicio/rueda-07.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "packaging design",
+  "descripcion": "Empaque y etiquetas"
+ },
+ {
+  "path": "inicio/rueda-08.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "food photography",
+  "descripcion": "Fotografía de comida"
+ },
+ {
+  "path": "marketing/anuncios-digitales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital ads laptop analytics",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "marketing/anuncios-digitales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital ads laptop analytics",
+  "descripcion": "Ejemplo visual de Creación de anuncios digitales"
+ },
+ {
+  "path": "marketing/anuncios-digitales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital ads laptop analytics",
+  "descripcion": "Ejemplo visual de Creación de anuncios digitales"
+ },
+ {
+  "path": "marketing/anuncios-digitales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "digital ads laptop analytics",
+  "descripcion": "Ejemplo visual de Creación de anuncios digitales"
+ },
+ {
+  "path": "marketing/branding-redes-sociales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "instagram branding feed",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "marketing/branding-redes-sociales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "instagram branding feed",
+  "descripcion": "Ejemplo visual de Branding para redes sociales"
+ },
+ {
+  "path": "marketing/branding-redes-sociales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "instagram branding feed",
+  "descripcion": "Ejemplo visual de Branding para redes sociales"
+ },
+ {
+  "path": "marketing/branding-redes-sociales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "instagram branding feed",
+  "descripcion": "Ejemplo visual de Branding para redes sociales"
+ },
+ {
+  "path": "marketing/calendarios-contenido-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content calendar planner",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "marketing/calendarios-contenido-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content calendar planner",
+  "descripcion": "Ejemplo visual de Creación de calendarios de contenido"
+ },
+ {
+  "path": "marketing/calendarios-contenido-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content calendar planner",
+  "descripcion": "Ejemplo visual de Creación de calendarios de contenido"
+ },
+ {
+  "path": "marketing/calendarios-contenido-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "content calendar planner",
+  "descripcion": "Ejemplo visual de Creación de calendarios de contenido"
+ },
+ {
+  "path": "marketing/campanas-publicitarias-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising campaign creative team",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "marketing/campanas-publicitarias-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising campaign creative team",
+  "descripcion": "Ejemplo visual de Diseño de campañas publicitarias"
+ },
+ {
+  "path": "marketing/campanas-publicitarias-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising campaign creative team",
+  "descripcion": "Ejemplo visual de Diseño de campañas publicitarias"
+ },
+ {
+  "path": "marketing/campanas-publicitarias-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "advertising campaign creative team",
+  "descripcion": "Ejemplo visual de Diseño de campañas publicitarias"
+ },
+ {
+  "path": "marketing/categoria-marketing-digital.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "social media marketing smartphone",
+  "descripcion": "Portada de categoría: Marketing digital y redes sociales"
+ },
+ {
+  "path": "marketing/diseno-contenido-redes-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media design instagram",
+  "descripcion": "Hero del servicio: Diseño de contenido para redes sociales"
+ },
+ {
+  "path": "marketing/diseno-contenido-redes-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media design instagram",
+  "descripcion": "Ejemplo visual de Diseño de contenido para redes sociales"
+ },
+ {
+  "path": "marketing/diseno-contenido-redes-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media design instagram",
+  "descripcion": "Ejemplo visual de Diseño de contenido para redes sociales"
+ },
+ {
+  "path": "marketing/diseno-contenido-redes-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media design instagram",
+  "descripcion": "Ejemplo visual de Diseño de contenido para redes sociales"
+ },
+ {
+  "path": "marketing/estrategias-contenido-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "marketing strategy whiteboard",
+  "descripcion": "Servicio relacionado"
+ },
+ {
+  "path": "marketing/estrategias-contenido-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "marketing strategy whiteboard",
+  "descripcion": "Ejemplo visual de Estrategias de contenido"
+ },
+ {
+  "path": "marketing/estrategias-contenido-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "marketing strategy whiteboard",
+  "descripcion": "Ejemplo visual de Estrategias de contenido"
+ },
+ {
+  "path": "marketing/estrategias-contenido-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "marketing strategy whiteboard",
+  "descripcion": "Ejemplo visual de Estrategias de contenido"
+ },
+ {
+  "path": "marketing/gestion-redes-sociales-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media manager desk",
+  "descripcion": "Fotografía representativa de: Gestión de redes sociales"
+ },
+ {
+  "path": "marketing/gestion-redes-sociales-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media manager desk",
+  "descripcion": "Ejemplo visual de Gestión de redes sociales"
+ },
+ {
+  "path": "marketing/gestion-redes-sociales-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media manager desk",
+  "descripcion": "Ejemplo visual de Gestión de redes sociales"
+ },
+ {
+  "path": "marketing/gestion-redes-sociales-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "social media manager desk",
+  "descripcion": "Ejemplo visual de Gestión de redes sociales"
+ },
+ {
+  "path": "nosotros/nosotros-01.jpg",
+  "width": 960,
+  "height": 1200,
+  "orientation": "portrait",
+  "query": "creative team studio",
+  "descripcion": "Equipo creativo en el estudio"
+ },
+ {
+  "path": "nosotros/nosotros-02.jpg",
+  "width": 1000,
+  "height": 1000,
+  "orientation": "square",
+  "query": "design materials desk",
+  "descripcion": "Detalle de materiales de diseño"
+ },
+ {
+  "path": "nosotros/nosotros-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative workspace studio",
+  "descripcion": "Espacio del estudio o proceso de trabajo"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-01.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project branding",
+  "descripcion": "Proyecto destacado: Branding"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-02.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project diseño gráfico",
+  "descripcion": "Proyecto destacado: Diseño gráfico"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-03.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project fotografía",
+  "descripcion": "Proyecto destacado: Fotografía"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-04.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project audiovisual",
+  "descripcion": "Proyecto destacado: Audiovisual"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-05.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project redes sociales",
+  "descripcion": "Proyecto destacado: Redes sociales"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-06.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-07.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-08.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-09.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-10.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-11.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ },
+ {
+  "path": "portafolio/portfolio-proyecto-12.jpg",
+  "width": 1200,
+  "height": 800,
+  "orientation": "landscape",
+  "query": "creative project",
+  "descripcion": "Proyecto del portafolio"
+ }
+]

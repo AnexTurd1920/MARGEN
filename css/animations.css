@@ -1,0 +1,26 @@
+/* MARGEN — animations.css */
+@keyframes float{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-14px) rotate(3deg)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes drift{to{transform:translateX(-50%)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+.reveal{opacity:0;transform:translateY(28px);transition:opacity .9s var(--ease),transform .9s var(--ease);transition-delay:var(--d,0s)}
+.reveal.in{opacity:1;transform:none}
+/* Titular del hero: palabras que aparecen una a una */
+.split .w{display:inline-block;overflow:hidden;vertical-align:top;padding-bottom:.08em}
+.split .w>span{display:inline-block;transform:translateY(105%);transition:transform .9s var(--ease);transition-delay:calc(var(--i)*.07s)}
+.split.in .w>span{transform:none}
+.wave path{stroke-dasharray:1600;stroke-dashoffset:1600;animation:draw 3.5s ease forwards .3s}
+.spin-slow{animation:spin 40s linear infinite}
+.zoom img{will-change:transform}
+/* Cinta horizontal automática de galería */
+.marquee{overflow:hidden;padding-block:1rem}
+.marquee-track{display:flex;gap:1rem;width:max-content;animation:drift 50s linear infinite}
+.marquee:hover .marquee-track{animation-play-state:paused}
+.marquee .ph{width:clamp(200px,24vw,320px);aspect-ratio:4/3;flex:none}
+/* Transición entre páginas */
+body{animation:fade .5s ease}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
+  .reveal{opacity:1;transform:none}.split .w>span{transform:none}.wave path{stroke-dashoffset:0}
+}
